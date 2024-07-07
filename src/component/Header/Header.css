@@ -1,0 +1,89 @@
+.delivery-name{
+    color: #df6001;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 20px 0 0 0px;
+}
+.pick-up{
+    color: #df6001;
+    padding-left: 20px;
+
+}
+.icon{
+    padding-left: 10px;
+    font-size: 70px;
+    color: #df6001;
+
+}
+.banner-image{
+    width: 100%;
+}
+.banner{
+    width: 500px;
+    margin-top: 40px;
+}
+.order-button{
+    background-color:#df6001 ;
+    color: white;
+    cursor: pointer;
+}
+ .button button{
+    padding: 5px 10px;
+    border: none;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.slogan-content{
+    color: #ea8c45;
+    font-size: 30px;
+
+}
+.flow{
+    font-size: 30px;
+    color: #df6001;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.track-button{
+    border: 1px solid #df6001 !important;
+}
+.main-container{
+    margin: 20px 10px 10px 50px;
+    /* animation: fadeIn 5s ; */
+}
+
+.div{
+    display: flex;
+    align-items: center;
+}
+.island-content{
+    display:flex;
+    margin-left: 20px;
+}
+.island{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffeabf;
+    padding: 13px;
+    border-radius: 20px;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+.island-icon{
+    background-color: #ffd5d4;
+    font-size: 40px;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+/* @keyframes fadeIn {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }   
+} */

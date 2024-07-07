@@ -1,0 +1,196 @@
+{
+    "menu": [
+      {
+        "mealType": "breakfast",
+        "startTime": "05:00",
+        "endTime": "11:00",
+        "items": [
+          {
+            "id": 1,
+            "name": "Idli",
+            "description": "Steamed rice cakes served with sambar and chutney",
+            "price": 2.99,
+            "imageUrl": "/assets/food-image/idly.jpg",
+            "available": true
+          },
+          {
+            "id": 2,
+            "name": "Dosa",
+            "description": "Crispy rice crepe served with sambar and chutney",
+            "price": 3.99,
+            "imageUrl": "/assets/food-image/dosa.png",
+            "available": true
+          },
+          {
+            "id": 3,
+            "name": "Pongal",
+            "description": "Savory rice and lentil dish with ghee and spices",
+            "price": 4.99,
+            "imageUrl": "/assets/food-image/pongal.jpg",
+            "available": true
+          },
+          {
+            "id": 4,
+            "name": "Poori Masala",
+            "description": "Fluffy deep-fried bread served with spiced potato masala",
+            "price": 4.99,
+            "imageUrl": "/assets/food-image/poori.jpg",
+            "available": true
+          },
+          {
+            "id": 5,
+            "name": "Idiyappam",
+            "description": "String hoppers made from rice flour served with coconut milk or curry",
+            "price": 4.99,
+            "imageUrl": "/assets/food-image/idiyappam.jpg",
+            "available": true
+          },
+          {
+            "id": 6,
+            "name": "Uthappam",
+            "description": "Thick pancake made from fermented rice batter topped with vegetables",
+            "price": 3.49,
+            "imageUrl": "/assets/food-image/uttappam.jpg",
+            "available": true
+          },
+          {
+            "id": 7,
+            "name": "Upma",
+            "description": "Savory semolina dish cooked with vegetables and spices",
+            "price": 2.99,
+            "imageUrl": "/assets/food-image/Upma.jpg",
+            "available": true
+          }
+        
+          
+        ]
+      },
+      {
+        "mealType": "lunch",
+        "startTime": "11:00",
+        "endTime": "16:00",
+        "items": [
+          {
+            "id": 8,
+            "name": "Sambar Rice",
+            "description": "Rice mixed with spicy lentil stew",
+            "price": 5.99,
+            "imageUrl": "/assets/food-image/sambar_rice.jpg",
+            "available": true
+          },
+          {
+            "id": 9,
+            "name": "Curd Rice",
+            "description": "Rice mixed with yogurt and seasoned with spices",
+            "price": 4.99,
+            "imageUrl": "/assets/food-image/curd_rice.jpg",
+            "available": true
+          },
+          {
+            "id": 10,
+            "name": "Thali",
+            "description": "An assortment of various dishes served on a single plate",
+            "price": 7.99,
+            "imageUrl": "/assets/food-image/thali.jpg",
+            "available": true
+          },
+          {
+            "id": 11,
+            "name": "Parotta",
+            "description": "Layered flatbread served with kurma or curry",
+            "price": 3.99,
+            "imageUrl": "/assets/food-image/parotta.jpg",
+            "available": true
+          },
+          {
+            "id": 12,
+            "name": "Biryani",
+            "description": "Fragrant rice cooked with spices and meat or vegetables",
+            "price": 8.99,
+            "imageUrl": "/assets/food-image/biryani.jpg",
+            "available": true
+          },
+          {
+            "id": 13,
+            "name": "Veg Noodles",
+            "description": "Stir-fried noodles with assorted vegetables and soy sauce",
+            "price": 5.99,
+            "imageUrl": "/assets/food-image/veg-noodles.jpg",
+            "available": true
+          },
+          {
+            "id": 3,
+            "name": "Chicken Noodles",
+            "description": "Stir-fried noodles with chicken, vegetables, and soy sauce",
+            "price": 7.99,
+            "imageUrl": "/assets/food-image/chicken-noodles.jpg",
+            "available": true
+          },
+
+        ]
+      },
+      {
+        "mealType": "dinner",
+        "startTime": "16:00",
+        "endTime": "21:00",
+        "items": [
+          {
+            "id": 13,
+            "name": "Parotta",
+            "description": "Layered flatbread served with kurma or curry",
+            "price": 3.99,
+            "imageUrl": "/assets/food-image/parotta.jpg",
+            "available": true
+          },
+          {
+            "id": 14,
+            "name": "Biryani",
+            "description": "Fragrant rice cooked with spices and meat or vegetables",
+            "price": 8.99,
+            "imageUrl": "/assets/food-image/biryani.jpg",
+            "available": true
+          },
+          {
+            "id": 15,
+            "name": "Kothu Parotta",
+            "description": "Chopped parotta stir-fried with eggs, meat, and spices",
+            "price": 6.99,
+            "imageUrl": "https://example.com/images/kothu_parotta.jpg",
+            "available": true
+          }
+        ]
+      },
+      {
+        "mealType": "snacks",
+        "startTime": "21:00",
+        "endTime": "05:00",
+        "items": [
+          {
+            "id": 10,
+            "name": "Vada",
+            "description": "Crispy fried lentil doughnuts",
+            "price": 1.99,
+            "imageUrl": "https://example.com/images/vada.jpg",
+            "available": true
+          },
+          {
+            "id": 11,
+            "name": "Bajji",
+            "description": "Vegetables dipped in chickpea flour batter and fried",
+            "price": 2.99,
+            "imageUrl": "https://example.com/images/bajji.jpg",
+            "available": true
+          },
+          {
+            "id": 12,
+            "name": "Sundal",
+            "description": "Boiled chickpeas seasoned with coconut and spices",
+            "price": 2.49,
+            "imageUrl": "https://example.com/images/sundal.jpg",
+            "available": true
+          }
+        ]
+      }
+    ]
+  }
+  
